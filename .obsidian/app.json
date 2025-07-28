@@ -1,0 +1,13 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "new",
+  "attachmentFolderPath": "system/img",
+  "userIgnoreFilters": [
+    "_debug_remotely_save/"
+  ],
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "smartIndentList": false,
+  "readableLineLength": false
+}
